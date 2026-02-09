@@ -16,7 +16,7 @@ Each project has its own GitHub Pages link or a detailed README explaining metho
 ---
 
 ## 🔗 Project Links
-
+- **Data Analyst**
 | Project | Short Description | GitHub | Dashboard |
 |--------|-----------------|------------------|----------------------|
 | product-sales-analysis | Interactive dashboard analyzing 10-year fashion sales trends and customer preferences | [GitHub](https://github.com/dkruma/dkruma.github.io/tree/main/projects/product-sales-analysis) | [Live](https://dkruma.github.io/product-sales-dashboard/)
