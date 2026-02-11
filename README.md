@@ -25,6 +25,7 @@ Each project has its own GitHub Pages link or a detailed README explaining metho
 | Data Science Project | Short Description | GitHub | Dashboard |
 |--------|-----------------|------------------|----------------------|
 | flood-risk-detection | Predictive dashboard analyzing rainfall, humidity, and temperature patterns to estimate flood risks in Bandar Lampung | [GitHub](https://github.com/dkruma/dkruma.github.io/tree/main/projects/flood-risk-detection) | [Live](https://dkruma.github.io/flood-risk-detection/)
+| air-quality-analysis-classification | Predictive dashboard analyzing rainfall, humidity, and temperature patterns to estimate flood risks in Bandar Lampung | [GitHub](https://github.com/dkruma/air-quality-analysis-and-classification) | [Live](https://dkruma.github.io/projects/air-quality-analysis-and-classification/)
 
 ---
 
